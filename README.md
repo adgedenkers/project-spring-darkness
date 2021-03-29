@@ -1,6 +1,6 @@
 # Setup Git and GitHub
 
-## Creat
+## Create
 
 ``` bash
 echo "# project-spring-darkness" >> README.md
